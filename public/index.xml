@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Dialectical Culture</title>
+    <link>https://geniexr.art/blog/</link>
+    <description>Recent content on Dialectical Culture</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Jun 2023 03:42:35 +0000</lastBuildDate><atom:link href="https://geniexr.art/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NASA UAP Initiative</title>
+      <link>https://geniexr.art/blog/posts/nasa-uap-initiative/</link>
+      <pubDate>Tue, 06 Jun 2023 03:42:35 +0000</pubDate>
+      
+      <guid>https://geniexr.art/blog/posts/nasa-uap-initiative/</guid>
+      <description>All of this is thanks mostly to the hard work of Luis Elizondo, Chris Mellon, and Cmd David Fravor. </description>
+    </item>
+    
+  </channel>
+</rss>
